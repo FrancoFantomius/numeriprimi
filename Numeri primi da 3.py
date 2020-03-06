@@ -1,4 +1,5 @@
 #fe=eval(input("Numero | "))
+import abc
 fe=0
 
 while True:
