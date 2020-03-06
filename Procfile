@@ -1,1 +1,1 @@
-numeriprimi: python "Numeri primi da 3.py"
+worker: python "Numeri primi da 3.py"
